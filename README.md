@@ -1,2 +1,2 @@
 # VEPUDP
-Reading and showing signals in a UDP packet data protocol 
+Reading and showing signals of visual evoked potentials (VEPs) in a UDP packet data protocol 
