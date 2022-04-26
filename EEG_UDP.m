@@ -4,6 +4,7 @@
 % Modified in Jan 2018
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+
 function EEG_UDP  
     %%%% Input variables (can be modified) %%%%
     Normalized = true; % false/true, depending on software online-setting
